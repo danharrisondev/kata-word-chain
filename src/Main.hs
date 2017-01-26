@@ -1,4 +1,4 @@
 import App.Text
 
 main = do
-    putStrLn greeting
+    putStrLn $ show $ similar "cat" "cap"
