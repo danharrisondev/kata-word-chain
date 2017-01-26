@@ -1,2 +1,4 @@
+import App.Text
+
 main = do
-    putStrLn "Hello World"
+    putStrLn greeting
